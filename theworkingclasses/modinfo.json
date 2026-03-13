@@ -1,0 +1,16 @@
+{
+    "type": "code",
+    "modid": "hhtheworkingclasses",
+    "name": "The Working Classes (HH Edition)",
+    "authors": [
+        "Vivi_IX",
+        "Frozti",
+        "magetearz"
+    ],
+    "description": "Adds profession based classes to Vintage story. Pick a profession and work alongside your fellows, or take on the world alone in a new way",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "",
+        "em": "3.0.0"
+    }
+}
